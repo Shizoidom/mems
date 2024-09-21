@@ -14,3 +14,5 @@ if __name__ == '__main__':
 
 #комит в task1
 print(123)
+#еще один комит в task1
+print(1234)
