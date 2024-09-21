@@ -12,4 +12,7 @@ if __name__ == '__main__':
     plt.axis('off')
     plt.show()
 
-
+#комит в task1
+print(123)
+#еще один комит в task1
+print(1234)
